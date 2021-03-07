@@ -6,7 +6,7 @@ A tool for formatting the text in Django backend
 * Upper Case
 * New Line Remover
 * Extra Space Remover
-* Character Count
+* Character Counter
 
 # Requirments
 * Django
